@@ -12,5 +12,5 @@ for i in range (7):
 if idoso == 0:
     print(f'Dentre as 7 pessoas, {ma} já antingiram a maioridade e {me} são ainda menor de idade!')
 elif idoso > 0:
-    print(f'Dentre as 7 pessoas, {ma} já antingiram a maioridade e {me} são ainda menor de idade. Ademais temos {idoso} pessoas que não deveriam estar vivas!')
+    print(f'Dentre as 7 pessoas, {ma} já antingiram a maioridade e {me} são ainda menor de idade. Ademais temos {idoso} pessoas')
 
